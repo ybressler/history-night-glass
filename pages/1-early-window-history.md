@@ -65,8 +65,8 @@ from the bones of mammoths. These structures were circular and likely covered
 with animal hides or other materials.
 -->
 
-# [Or use bones]{style="color:black"}
-# [I guess...]{style="color:black"}
+# `Or use bones`
+# `I guess...`
 
 ---
 layout: image

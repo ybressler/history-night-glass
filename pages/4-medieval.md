@@ -23,7 +23,7 @@ Most of these sites have been destroyed – and rebuilt in place with stone fort
 
 ---
 layout: image
-image: /château-de-coucy.jpeg
+image: /chateau-de-coucy.jpeg
 ---
 # `Château de Coucy`
 * `Giant keep (35m wide, 55m tall, on top of huge hill)`
