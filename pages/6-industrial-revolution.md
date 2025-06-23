@@ -27,6 +27,14 @@ image: https://restorationwindowglass.com/assets/193-195.jpg
 `The result: Perfectly clear, flat, flawless glass. But it's so expensive only royalty can afford it (think Palace of Versailles' Hall of Mirrors).`
 
 ---
+layout: 3-images
+imageLeft: https://www.markeades.com/wp-content/uploads/2020/09/More-Versailles.10.jpg
+imageTopRight: https://upload.wikimedia.org/wikipedia/commons/f/f1/Chateau_Versailles_Galerie_des_Glaces.jpg
+imageBottomRight: https://worldinparis.com/wp-content/uploads/2020/08/Chateau-de-Versailles-Garden-Facade.jpg
+---
+`Grande Galerie, Galerie des Glaces, Galerie de Louis XIV` <u>`(1623)`</u>
+
+---
 layout: image-right
 image: https://upload.wikimedia.org/wikipedia/commons/8/8d/Pittsburgh_Sketches_--_Among_the_Glass-Workers.jpg
 ---
