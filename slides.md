@@ -56,3 +56,4 @@ src: ./pages/7-modern.md
 ---
 # Resources
 * Amazing designer who recreates historically accurate sites: https://bobmarshall.co.uk/index.html
+* V&A Museums (UK): history of stained glass in UK: https://www.vam.ac.uk/articles/stained-glass-an-introduction

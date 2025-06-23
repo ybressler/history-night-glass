@@ -54,7 +54,7 @@ image: https://bobmarshall.co.uk/portfolio/ArdrossanCastle/ArdrossanCastle_NW.jp
 layout: section
 ---
 # 5. Gothic Era (1200-1500)
-Le dark ages.
+Le dark ages in da past.
 
 ---
 layout: image-right
@@ -83,6 +83,51 @@ image: https://media.sciencephoto.com/c0/60/06/05/c0600605-800px-wm.jpg
 <br>
 
 `4. Open and roll`
+
+---
+layout: image-left
+image: https://vanda-production-assets.s3.amazonaws.com/2021/09/06/13/43/35/b7376fa4-0c04-4250-ba49-fdfa730fc160/Glass-coloured-2006AA7588.jpg
+---
+Small imperfections:
+* Dots are air bubbles.
+* waviness
+* pontification (where rod connects to glass), thrown away for high end works
+
+`Panel with foliage from a window border in Canterbury Cathedral, about 1200 – 20, England.`
+
+---
+layout: image
+image: https://vanda-production-assets.s3.amazonaws.com/2021/09/06/13/41/12/77873b4a-c047-4467-bd3b-6ba6594e5004/Glass-background-2006AJ7965.jpg
+---
+## `Close up shows it better`
+<br><br>
+`Detail from a panel depicting Saint Peter, from Seés Cathedral, about 1280, France. Museum no C.727-1909. © Victoria and Albert Museum, London`
+
+
+---
+layout: image
+image: https://vanda-production-assets.s3.amazonaws.com/2021/09/06/13/56/14/214ffc21-3553-4124-9c0b-962a34dc0a51/Glass-Tree-of-Jesse-2009CE2259.jpg
+---
+`Can mix colors too sometimes`
+
+
+---
+layout: image
+image: https://vanda-production-assets.s3.amazonaws.com/2021/09/06/10/31/30/b1f034ab-3a0e-40aa-887e-4c7091752032/Glass-roundel-2006AJ7940.jpg
+---
+## `Bolder colors: silver stain (clear glass + glue = color)`
+
+`Roundel showing the Annunciation of the Shepherds, with details in silver stain, about 1340 –45, England. Museum no. 2270-1900. © Victoria and Albert Museum, London`
+
+---
+layout: image-left
+image: https://vanda-production-assets.s3.amazonaws.com/2021/09/06/10/27/24/9ba439e9-6f18-4c44-a3c6-6f1046c9e75d/Glass-panel-justice-2006AF0889.jpg
+---
+# Fast forward 200 years
+## Outrageously beautiful glass
+Can paint on the actual glass to create drawings!
+
+### New technology unlocked: <u>vitreous enamel</u> `+500 religion points`
 
 ---
 layout: image

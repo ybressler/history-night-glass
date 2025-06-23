@@ -82,6 +82,13 @@ You can't make huge panes of glass yet.
 So you build a grid with stone posts (**mullions**) and fill it with hundreds of small, diamond-shaped panes (**quarries**) held in lead.
 
 `It's a window made of windows.`
+
+---
+layout: image
+image: https://cdn.shopify.com/s/files/1/0050/5492/2852/files/medieval-leaded-glass-window-6_2048x2048.jpg?v=1721685393
+---
+# `Mullions: (leaded glass)`
+
 ---
 layout: image
 image: https://upload.wikimedia.org/wikipedia/commons/3/3d/Long_Gallery_windows%2C_Haddon_Hall_-_Bakewell%2C_Derbyshire%2C_England_-_DSC02797.jpg
