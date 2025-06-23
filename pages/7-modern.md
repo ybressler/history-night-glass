@@ -89,7 +89,7 @@ The window becomes a computer.
 
 ---
 layout: image-right
-image: [A two-panel "before and after" image of a smart glass window, showing it perfectly clear in one panel and electronically tinted dark or opaque in the other.]
+image: https://i0.wp.com/fulgararchitects.com/wp-content/uploads/2022/01/fulgar-architects-modern-electrochromic-glass-for-future-homes-and-buildings-in-the-philippines.jpg
 ---
 # `Now You See It, Now You Don't`
 Introducing **Smart Glass** (or Switchable Glass).
@@ -100,17 +100,28 @@ By applying a small electric voltage, the glass can instantly change from transp
 
 ---
 layout: image
-image: [An awe-inspiring photo of a complex, contemporary building with a massive, curving glass facade, like Apple Park or a building by Zaha Hadid.]
+image: https://storage.googleapis.com/production-ipower-v1-0-7/877/213877/gAiZX8Ps/79c790d43ce8494b99e664b24aeb9142
+---
+# `Le tinte`
+
+---
+layout: image
+image: https://www.marmomac.com/wp-content/uploads/2020/06/zaha.jpg
 ---
 # `Glass can do anything now.`
 `With modern engineering, glass isn't just a flat pane anymore.`
 
 `It can be curved, bent, and used as a structural element itself. Architects can create entire building "skins" out of high-tech, energy-efficient glass.`
 
+---
+layout: image
+image: https://www.viracon.com/wp-content/uploads/2020/05/JavitsCenter3.jpg
+---
+# `Fritting`
 
 ---
 layout: image-right
-image: [A close-up photo of "bird-safe glass," showing the subtle dotted or lined patterns (fritting) that are visible to birds but mostly transparent to humans.]
+image: https://www.walkerglass.com/wp-content/uploads/2023/04/how-bird-safe-scaled.jpg
 ---
 # `Solving New Problems`
 We fixed the smoke, the view, and the energy loss. Now we're solving for nature.

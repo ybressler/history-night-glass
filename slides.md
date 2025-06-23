@@ -41,6 +41,12 @@ hide: false
 ---
 
 ---
+layout: image
+image: /glass-making-chronology.png
+---
+# `Chronology of glass making`
+
+---
 src: ./pages/5-renaissance.md
 hide: false
 ---
@@ -55,6 +61,16 @@ src: ./pages/7-modern.md
 
 ---
 src: ./pages/8-land-transportation-windows.md
+---
+
+---
+layout: image
+image: /glass-making-chronology.png
+---
+# `Chronology of glass making`
+
+---
+src: ./pages/9-floor-to-ceiling.md
 ---
 
 ---
