@@ -17,14 +17,14 @@ Focus shifts from the heavens to the world around us. People start thinking abou
 
 ---
 layout: image
-image: https://www.tornabuoni1.com/wp-content/uploads/Palazzo-Medici-Riccardi_wp-1024x591.jpgG
+image: https://www.tornabuoni1.com/wp-content/uploads/Palazzo-Medici-Riccardi_wp-1024x591.jpg
 ---
 # `My windows are bigger than yours.`
 The new status symbol: A symmetrical `Palazzo` with big, orderly windows.
 
 It says: `I'm rich, I'm modern, and I'm not afraid of a stray arrow.`
----
 
+---
 layout: image:
 image: https://isiflorence.org/wp-content/uploads/2022/03/facade_rucellai.jpg
 ---
